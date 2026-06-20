@@ -15,7 +15,7 @@ RUN addgroup --system appgroup \
 COPY requirements.txt .
 
 RUN pip install --upgrade pip \
-    && pip install -r requirements.txt
+    && pip install --no-cache-dir -r requirements.txt
 
 COPY app.py .
 COPY lib ./lib
