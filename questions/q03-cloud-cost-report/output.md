@@ -8,7 +8,7 @@ Claude Sonnet 4 - escolhido pela boa organizacao de analise tabular, calculos pe
 
 ## Resumo executivo
 
-O custo mensal atual e de **USD 41.800**. A meta de 15% representa **USD 6.270/mes**. A combinacao recomendada abaixo estima economia de **USD 6.455/mes**, equivalente a **15,44%** da conta, sem acao que reduza SLA diretamente.
+O custo mensal atual e de **USD 41.800**. A meta de 15% representa **USD 6.270/mes**. A combinacao recomendada abaixo estima economia de **USD 6.515/mes**, equivalente a **15,59%** da conta, sem acao que reduza SLA diretamente.
 
 ## Oportunidades priorizadas
 
